@@ -1,4 +1,4 @@
-;;; omboo-bamboo.el --- bamboo feed reader library for omboo -*- lexical-binding: t; -*-
+;;; omboo-bamboo.el --- omboo utilities for bamboo feed reader. -*- lexical-binding: t; -*-
 
 ;; Copyright (C) 2015  Hiroki YAMAKAWA
 
